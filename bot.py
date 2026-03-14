@@ -23,7 +23,7 @@ from telegram.ext import (
 # ──────────────────────────────────────────────
 # ⚙️  CONFIG — Edit before running!
 # ──────────────────────────────────────────────
-BOT_TOKEN = os.getenv("BOT_TOKEN", "YOUR_BOT_TOKEN_HERE")
+BOT_TOKEN = os.getenv("BOT_TOKEN", "8741112903:AAF4EiT2gAc5bOkHBDuH64YW9PtLmD2WfYc")
 ALERT_CHANNEL_ID = os.getenv("ALERT_CHANNEL_ID", "YOUR_CHANNEL_ID_HERE")
 
 TRACKED_COINS = [
